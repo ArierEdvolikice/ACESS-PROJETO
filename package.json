@@ -1,7 +1,7 @@
 {
-  "name": "neoacessibilidade",
+  "name": "ACESS-PROJETO",
   "version": "0.1.0",
-  "homepage": "./",
+  "homepage": "https://github.com/ArierEdvolikice/ACESS-PROJETO.git",
   "private": true,
   "dependencies": {
     "@react-native-firebase/app": "^14.3.0",
@@ -30,6 +30,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy":"npm rum build",
+    "deploy":"gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
