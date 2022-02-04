@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ArierEdvolikice/ACESS-PROJETO.git/static/css/main.dac12c15.css",
-    "main.js": "/ArierEdvolikice/ACESS-PROJETO.git/static/js/main.8ea67fb9.js",
-    "static/media/IMG_REUNIAO.jpg": "/ArierEdvolikice/ACESS-PROJETO.git/static/media/IMG_REUNIAO.1e66548f169c34eb83e7.jpg",
-    "static/media/none.png": "/ArierEdvolikice/ACESS-PROJETO.git/static/media/none.f29f0889975eb1aae63b.png",
-    "index.html": "/ArierEdvolikice/ACESS-PROJETO.git/index.html",
-    "main.dac12c15.css.map": "/ArierEdvolikice/ACESS-PROJETO.git/static/css/main.dac12c15.css.map",
-    "main.8ea67fb9.js.map": "/ArierEdvolikice/ACESS-PROJETO.git/static/js/main.8ea67fb9.js.map"
+    "main.css": "/ACESS-PROJETO/static/css/main.0cb33600.css",
+    "main.js": "/ACESS-PROJETO/static/js/main.2393de1a.js",
+    "static/media/IMG_REUNIAO.jpg": "/ACESS-PROJETO/static/media/IMG_REUNIAO.1e66548f169c34eb83e7.jpg",
+    "static/media/none.png": "/ACESS-PROJETO/static/media/none.f29f0889975eb1aae63b.png",
+    "index.html": "/ACESS-PROJETO/index.html",
+    "main.0cb33600.css.map": "/ACESS-PROJETO/static/css/main.0cb33600.css.map",
+    "main.2393de1a.js.map": "/ACESS-PROJETO/static/js/main.2393de1a.js.map"
   },
   "entrypoints": [
-    "static/css/main.dac12c15.css",
-    "static/js/main.8ea67fb9.js"
+    "static/css/main.0cb33600.css",
+    "static/js/main.2393de1a.js"
   ]
 }
