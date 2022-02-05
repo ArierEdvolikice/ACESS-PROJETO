@@ -2,10 +2,6 @@
   "homepage": "https://ArierEdvolikice.github.io/ACESS-PROJETO",
   "name": "acess-projeto",
   "version": "0.1.0",
-<<<<<<< HEAD
-=======
-  "homepage": "https://ArierEdvolikice.github.io/ACESS-PROJETO",
->>>>>>> 6695622830af0664e699d6e0c87fe1b0e2be7498
   "private": true,
   "dependencies": {
     "@react-native-firebase/app": "^14.3.0",
