@@ -31,43 +31,7 @@
   <body>
 
     
-    <script>
-    (function(){
-        var s    = document.createElement('script');
-        var h    = document.querySelector('head') || document.body;
-        s.src    = 'https://acsbapp.com/apps/app/dist/js/app.js';
-        s.async  = true;
-        s.onload = function(){
-            acsbJS.init({
-                statementLink    : '',
-                footerHtml       : '',
-                hideMobile       : false,
-                hideTrigger      : false,
-                disableBgProcess : false,
-                language         : 'en',
-                position         : 'right',
-                leadColor        : '#146FF8',
-                triggerColor     : '#146FF8',
-                triggerRadius    : '50%',
-                triggerPositionX : 'right',
-                triggerPositionY : 'bottom',
-                triggerIcon      : 'people',
-                triggerSize      : 'bottom',
-                triggerOffsetX   : 20,
-                triggerOffsetY   : 20,
-                mobile           : {
-                    triggerSize      : 'small',
-                    triggerPositionX : 'right',
-                    triggerPositionY : 'bottom',
-                    triggerOffsetX   : 20,
-                    triggerOffsetY   : 20,
-                    triggerRadius    : '20'
-                }
-            });
-        };
-        h.appendChild(s);
-    })();
-</script>
+<script>(function(document, tag) { var script = document.createElement(tag); var element = document.getElementsByTagName('body')[0]; script.src = 'https://acsbap.com/apps/app/assets/js/acsb.js'; script.async = true; script.defer = true; (typeof element === 'undefined' ? document.getElementsByTagName('html')[0] : element).appendChild(script); script.onload = function() { acsbJS.init({ statementLink : '', feedbackLink : '', footerHtml : '', hideMobile : false, hideTrigger : false, language : 'en', position : 'right', leadColor : '#146FF8', triggerColor : '#146FF8', triggerRadius : '50%', triggerPositionX : 'right', triggerPositionY : 'bottom', triggerIcon : 'default', triggerSize : 'medium', triggerOffsetX : 20, triggerOffsetY : 20, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'bottom', triggerOffsetX : 0, triggerOffsetY : 0, triggerRadius : '0' } }); };}(document, 'script'));</script>
   </body>
   
 </html>
