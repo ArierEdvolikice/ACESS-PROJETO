@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ACESS-PROJETO/static/css/main.0cb33600.css",
-    "main.js": "/ACESS-PROJETO/static/js/main.2393de1a.js",
+    "main.js": "/ACESS-PROJETO/static/js/main.14438e27.js",
     "static/media/IMG_REUNIAO.jpg": "/ACESS-PROJETO/static/media/IMG_REUNIAO.1e66548f169c34eb83e7.jpg",
     "static/media/none.png": "/ACESS-PROJETO/static/media/none.f29f0889975eb1aae63b.png",
     "index.html": "/ACESS-PROJETO/index.html",
     "main.0cb33600.css.map": "/ACESS-PROJETO/static/css/main.0cb33600.css.map",
-    "main.2393de1a.js.map": "/ACESS-PROJETO/static/js/main.2393de1a.js.map"
+    "main.14438e27.js.map": "/ACESS-PROJETO/static/js/main.14438e27.js.map"
   },
   "entrypoints": [
     "static/css/main.0cb33600.css",
-    "static/js/main.2393de1a.js"
+    "static/js/main.14438e27.js"
   ]
 }
